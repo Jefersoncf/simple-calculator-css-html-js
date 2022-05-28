@@ -18,7 +18,7 @@ Tecnogolias utilizadas:
   * Github Pages
 
 ## Links
- - Aplicação rodando:
+ - Aplicação rodando: https://jefersoncf.github.io/simple-calculator-css-html-js/
  
  ## Autor
  * **Jeferson Ferreira**: Jefersoncf https://github.com/Jefersoncf
